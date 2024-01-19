@@ -14,3 +14,14 @@ Steps:-
 5)Auto-Transfer on Confirmation: If the required number of confirmations is reached, the balance designated for the transaction is automatically transferred.
 
 6)Automatic Rejection: If the required number of confirmations is not met within the set limit, the transaction is automatically rejected, and the balance remains unchanged.
+
+
+# Pictures
+
+![code 1](https://github.com/am6403/Multi-Signature-Wallet/assets/103773302/7f6ff4df-d435-4640-ab89-0e998baac0c9)
+![code 2](https://github.com/am6403/Multi-Signature-Wallet/assets/103773302/ae7f3d58-25bb-4356-be5f-37cc58b574d2)
+![code 3](https://github.com/am6403/Multi-Signature-Wallet/assets/103773302/01c816fa-08ce-440a-8ef1-d57a00a9a83e)
+![contract 1](https://github.com/am6403/Multi-Signature-Wallet/assets/103773302/19e5dd70-4d27-4855-a06a-6cbe4fe716af)
+![contract 2](https://github.com/am6403/Multi-Signature-Wallet/assets/103773302/51dc6aa7-f316-4fee-9ca9-68a5bb8b4713)
+
+
