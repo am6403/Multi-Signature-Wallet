@@ -1,4 +1,4 @@
-//Assignment 4
+
 //Multi-Signature Wallet
 
 // SPDX-License-Identifier: GPL-3.0
